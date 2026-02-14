@@ -1,4 +1,4 @@
-# BroGram 
+# Instragram
 
 ![node](https://img.shields.io/badge/node-%3E%3D18-blue)
 ![puppeteer](https://img.shields.io/badge/puppeteer-24.x-green)
