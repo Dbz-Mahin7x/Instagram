@@ -1,0 +1,8 @@
+node_modules
+.DS_Store
+.env
+cookies/
+!cookies/.gitkeep
+logs/
+*.log
+!logs/.gitkeep
