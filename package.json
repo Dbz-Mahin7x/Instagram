@@ -1,14 +1,14 @@
 {
-  "name": "brogram",
+  "name": "instagram",
   "version": "0.2.0",
-  "description": "BroGram — IG automation, bro-grade. A modular Puppeteer toolkit for playful Instagram automations.",
+  "description": " — IG automation, bro-grade. A modular Puppeteer toolkit for playful spams",
   "main": "src/index.js",
   "engines": { "node": ">=18" },
   "scripts": {
     "start": "node src/index.js",
     "dev": "NODE_ENV=development node src/index.js"
   },
-  "author": "Tas33n",
+  "author": "Dbz-Mahin7x",
   "license": "MIT",
   "dependencies": {
     "dotenv": "^16.4.5",
