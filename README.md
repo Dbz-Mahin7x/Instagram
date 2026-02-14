@@ -7,7 +7,7 @@
 
 ```
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  BroGram                             ┃
+┃  instagram                          ┃
 ┃  playful Instagram automations       ┃
 ┃  by Tas33n                           ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
